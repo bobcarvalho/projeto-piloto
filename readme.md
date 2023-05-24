@@ -1,0 +1,1 @@
+projeto piloto para aprender o uso do Git
